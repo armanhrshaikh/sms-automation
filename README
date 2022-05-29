@@ -1,0 +1,18 @@
+#Change the permissions, if required
+chmod 777 *
+
+# install dependencies 
+./script.sh
+
+#put your phone number with country code in phone_numbers.txt
+#e.g 
++919999999999
++918888888888
++917777777777
+
+#Edit the message in line number 14 of sms.sh (use appropriate special characters if required) 
+
+#start your automation
+./sms.sh -f phone_numbers.txt
+or
+sms -f phone_numbers.txt
