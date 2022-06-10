@@ -12,7 +12,7 @@ do
 			do
 
 				sleep 3
-				termux-sms-send -n [$line]  "\nAgain, Today is friday,\nkindly listen surah kahaf (The cave).\nhttps://youtu.be/44hSZowpWeQ"
+				termux-sms-send -n [$line]  "\Hi, Testing"
 		#		sed -i '1d' "${fname}"
 				termux-toast "Done $i in $j seconds"
 				count=$(wc -l <$fname)
