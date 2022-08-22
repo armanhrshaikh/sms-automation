@@ -1,4 +1,4 @@
-# sms-automation
+# sms (short message service) automation
 Short mesaage service (SMS) is an automation tool for android to automate 
 text messages by single click/schedule on android mobile phones.
 
@@ -14,40 +14,51 @@ And Small businesses, startups, entrepreneurs and individual can take advantages
 
 * Android version +7
 * [Termux Application](https://f-droid.org/repo/com.termux_118.apk)
-* Linux & Shell scripting knowledge
+* [Linux](https://linuxjourney.com/) & [Shell scripting](https://linuxcommand.org/lc3_writing_shell_scripts.php) knowledge
+* [Macrodroid- Device Automation](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid)
+* Confidence and solid communication skill
+* Active brain of a reader :)
 
 
-**Step 0- Clone the tool on termux**
+
+**Installation/Setup**
+
+**Step 0- Clone this tool on termux**
 
 git clone https://github.com/armanhrshaikh/sms-automation.git && cd sms-automation && chmod -R 755 *
 
-**Step 1- install dependencies**
+
+**Step 1- Install dependencies**
 
 ./script.sh
 
 
-**Step 2- put all your phone numbers with country code in a text file e.g phone_numbers.txt**
+**Step 2- Put all your phone numbers with country code in a text file (e.g phone_numbers.txt)**
 
-+919999999999
-
-+918888888888
-
-+917777777777
-
++919999999999<br>
++918888888888<br>
++917777777777<br>
 +916666666666
 
-**Step 3- Edit the message in line number 14 of sms.sh (use appropriate special characters if required)**
 
-**Step 4- finally start your automation work**
+**Step 3- Edit the message in line number 14 inside sms.sh (use appropriate special characters if required)**
+
+vim sms.sh
+
+
+**Step 4- Finally start your automation work**
 
 sms.sh -f phone_numbers.txt
  
-#schedule your automation
-Design your scripte and put in crontab
+ 
+**Step 5- Schedule your automation task**
 
-Done !
+Design your script and put inside crontab<br>
 
-The agreement with marketers
+
+
+
+**The agreement with marketers**
 * Sim card and monthly recharge pack will be provided by company
 * Forward calls to official number handled by company, when you going busy and can not attend calls
 * Automate auto-reply by macroidroid when you recieving huge calls
