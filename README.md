@@ -5,7 +5,7 @@ text messages by single click on android mobile phones.
 This tool is useful for
 * Sms marketing
 * Instant broadcasting
-* Sending festivals message to all
+* Sending festivals messages
 
 *Small businesses, startups, entrepreneurs and individual can take advantages.*
 
