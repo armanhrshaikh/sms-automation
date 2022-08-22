@@ -1,4 +1,4 @@
-# sms-semi-automation
+# sms-automation
 Short mesaage service (SMS) is an automation tool for android to automate 
 text messages by single click/schedule on android mobile phones.
 
