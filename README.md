@@ -19,7 +19,7 @@ This tool is useful for
 
 **Step 0- Clone the tool on termux**
 
-git clone https://github.com/armanhrshaikh/sms-semi-automation.git && chmod -R 755 *
+git clone https://github.com/armanhrshaikh/sms-semi-automation.git && cd sms-semi-automation && chmod -R 755 *
 
 **Step 1- install dependencies**
 
@@ -40,4 +40,17 @@ git clone https://github.com/armanhrshaikh/sms-semi-automation.git && chmod -R 7
 
 **Step 4- finally start your automation work**
 
-./sms.sh -f phone_numbers.txt
+sms.sh -f phone_numbers.txt
+ 
+#schedule your automation
+Design your scripte and put in crontab
+
+Done !
+
+The agreement with marketers
+* Sim card and monthly recharge pack will be provided by company
+* Forward calls to official number handled by company, when you going busy and can not attend calls
+* Automate auto-reply by macroidroid when you recieving huge calls
+* Properly compile the script weekly/monthly/quaterly/half yearly given by company
+* Sign and forwad the scaned copy of an agreement on official email or send by post
+
