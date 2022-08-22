@@ -19,7 +19,7 @@ This tool is useful for
 
 **Step 0- Clone the tool on termux**
 
-git clone https://github.com/armanhrshaikh/sms-semi-automation.git && cd sms-semi-automation && chmod -R 755 *
+git clone https://github.com/armanhrshaikh/sms-automation.git && cd sms-automation && chmod -R 755 *
 
 **Step 1- install dependencies**
 
