@@ -1,13 +1,13 @@
 # sms-semi-automation
 Short mesaage service (SMS) is an automation tool for android to automate 
-text messages by single click on android mobile phones.
+text messages by single click/schedule on android mobile phones.
 
 This tool is useful for
-* Sms marketing
+* Bulk SMS marketing
 * Instant broadcasting
 * Sending festivals messages
 
-*Small businesses, startups, entrepreneurs and individual can take advantages.*
+And Small businesses, startups, entrepreneurs and individual can take advantages.*
 
 
 **Requirements**
