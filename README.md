@@ -56,12 +56,3 @@ sms.sh -f phone_numbers.txt
 Design your script and put inside crontab<br>
 
 
-
-
-**The agreement with marketers**
-* Sim card and monthly recharge pack will be provided by company
-* Forward calls to official number handled by company, when you going busy and can not attend calls
-* Automate auto-reply by macroidroid when you recieving huge calls
-* Properly compile the script weekly/monthly/quaterly/half yearly given by company
-* Sign and forwad the scaned copy of an agreement on official email or send by post
-
